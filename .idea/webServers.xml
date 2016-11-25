@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7c9de294-6f58-491e-bbea-da9d8feb9988" name="Kingfisher" url="http://kingfisher.hopto.org">
+        <fileTransfer host="kingfisher.hopto.org" port="22" rootFolder="/home/ubuntu/MeteorApps/App4zhp" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
