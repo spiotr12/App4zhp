@@ -1,0 +1,9 @@
+{
+  "public": {
+  },
+  "private": {
+    "env": {
+      "NODE_ENV": "development"
+    }
+  }
+}
